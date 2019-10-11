@@ -1,4 +1,3 @@
-# sep11-freedomproject
 # SEP11 Freedom Project
 by Ryan Chen
 
